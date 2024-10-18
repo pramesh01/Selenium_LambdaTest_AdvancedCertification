@@ -38,7 +38,7 @@ public class BaseMainTest {
 	public WebDriver driver=null;
 	public JavascriptExecutor js;
 	public Properties prop;
-	public String username="pramesh";
+	public String username="pramesh.cs";
 	public String accesskey="dNhl0zFzTVae7njz830Ev3Ywo394ZHP7ffAsEYZm5CI17vde7U";
 	//public  RemoteWebDriver driver = null;
 	public  String gridURL="@hub.lambdatest.com/wd/hub";
