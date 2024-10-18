@@ -72,7 +72,7 @@ public class BaseMainTest {
 			ltOptions.put("visual", true);
 			ltOptions.put("video", true);
 			ltOptions.put("network", true);
-			ltOptions.put("build", "DemoRun_previouscode");
+			ltOptions.put("build", "lambdaTest_AdvCertification");
 			ltOptions.put("project", "LambdaTest_Selenium_AdvancedProject_Certification");
 			ltOptions.put("name", "Scenario_chrome_windows11");
 			ltOptions.put("selenium_version", "4.25.0");
@@ -92,7 +92,7 @@ public class BaseMainTest {
 			ltOptions.put("visual", true);
 			ltOptions.put("video", true);
 			ltOptions.put("network", true);
-			ltOptions.put("build", "DemoRun_previouscode");
+			ltOptions.put("build", "lambdaTest_AdvCertification");
 			ltOptions.put("project", "LambdaTest_Selenium_AdvancedProject_Certification");
 			ltOptions.put("name", "Scenario_Edge_Windows11");
 			ltOptions.put("selenium_version", "4.25.0");
@@ -111,7 +111,7 @@ public class BaseMainTest {
 			ltOptions.put("visual", true);
 			ltOptions.put("video", true);
 			ltOptions.put("network", true);
-			ltOptions.put("build", "DemoRun_previouscode");
+			ltOptions.put("build", "lambdaTest_AdvCertification");
 			ltOptions.put("project", "LambdaTest_Selenium_AdvancedProject_Certification");
 			ltOptions.put("name", "Scenario_firefox_windows10");
 			ltOptions.put("selenium_version", "4.25.0");
