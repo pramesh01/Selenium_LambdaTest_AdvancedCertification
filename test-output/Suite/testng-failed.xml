@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listeners.MyTestListener"/>
+  </listeners>
+  <test thread-count="3" parallel="tests" name="Test_Scenario_2(failed)">
+    <parameter name="BName" value="firefox"/>
+    <classes>
+      <class name="testcases.TestScenario1_LTAdvanced_Certification">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="lambdaTest_AdvancedCertification"/>
+        </methods>
+      </class> <!-- testcases.TestScenario1_LTAdvanced_Certification -->
+    </classes>
+  </test> <!-- Test_Scenario_2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

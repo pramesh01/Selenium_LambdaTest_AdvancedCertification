@@ -1,0 +1,8 @@
+pageclasses\HomePage.class
+pageclasses\LoginPage.class
+pageclasses\SearchPage.class
+listeners\MyTestListener.class
+util\Utilities.class
+pageclasses\AccountPage.class
+base\BaseMainTest.class
+pageclasses\RegisterPage.class
